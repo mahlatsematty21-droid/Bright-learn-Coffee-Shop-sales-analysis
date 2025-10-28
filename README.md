@@ -21,9 +21,9 @@ Morning → Afternoon → Evening
 # PRODUCT CONTRIBUTION
 Coffee and tea products account for approximately 67% of total revenue, establishing them as the revenue drivers. The remaining 33% is generated from other offerings such as pastries and snacks."
 # PROJECT FILES
-# INPUT FILES  (Case study and CSV file)
-# OUTPUT FILES (pdf miro,pptx,sql)
-# WORKING FILES (Excel)
+# Input fils  (Case study and CSV file)
+# Output files (pdf miro,pptx,sql)
+# Working files (Excel)
 
 # TOOLS & TECHNOLOGIES 
 1. SQL (Standard)
